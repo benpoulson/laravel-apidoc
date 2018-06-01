@@ -1,0 +1,11 @@
+{
+    "name": "benpoulson/laravel-apidoc",
+    "description": "A package for providing documentation for APIs written using Laravel",
+    "authors": [
+        {
+            "name": "Ben Poulson",
+            "email": "benpoulson93@gmail.com"
+        }
+    ],
+    "require": {}
+}
